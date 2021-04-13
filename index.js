@@ -48,9 +48,9 @@ const { ind } = require('./bahasa')
 //kontak
 const vcard1 = 'BEGIN:VCARD\n' 
               + 'VERSION:3.0\n' 
-              + 'FN:FAN BAYツ\n' //ganti nama lu! 
+              + 'FN:Ownerツ\n' //ganti nama lu! 
               + 'ORG: Owner YD-BOT;\n' 
-              + 'TEL;type=CELL;type=VOICE;waid=6289696332613:+6289696332613\n'  //ganti nomor lu! 
+              + 'TEL;type=CELL;type=VOICE;waid=6285865829368:+6285865829368\n'  //ganti nomor lu! 
               + 'END:VCARD'
              
 const vcard2 = 'BEGIN:VCARD\n' 
@@ -70,7 +70,7 @@ cr = '*𝐘𝐃-𝐁𝐎𝐓 𝐕𝐄𝐑𝐈𝐅𝐈𝐄𝐃*'
 fake = 'XYTOD-FIX-ANTIDELETE'
 numbernye = '0'
 NamaOwner = '𝖸𝗈𝗀𝗂𝖯𝗐&𝖣𝖺𝗉𝗉𝖺𝖴𝗁𝗎𝗒'
-NamaBot = 'FAN BAY BOT'
+NamaBot = 'SASUKE BOT'
 lolhumankey = 'dapxzwabots'
 
 //owner number
